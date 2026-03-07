@@ -21,10 +21,10 @@ Currently, I’m learning advanced **Full-Stack Development** to deliver full-fl
 ### ⚡ Fun fact
 I love turning complex ideas into **clean, modern web designs** and learning new technologies every day.
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=asadulsameerbd&label=Profile%20views&color=0e75b6&style=flat-square" 
        alt="Profile Views" 
-       width="120" text-align="left" height="45" />
+       width="120"  height="45" />
 </p>
 
 ## 🌐 Socials:
