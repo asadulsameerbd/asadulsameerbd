@@ -1,7 +1,14 @@
 
 ### 👋 Hi People,
 
-Hi! I’m Asadul Sameer, a passionate Web Developer and Designer from Bangladesh.  
+<h2 align="center">
+  Hi! I'm 
+  <a href="https://github.com/asadulsameerbd">Asadul Sameer</a>
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Designer;Web+Developer;Frontend+Developer;Learning+Full+Stack+Development" />
+</p>, a passionate Web Developer and Designer from Bangladesh.  
 I specialize in building **responsive, modern websites** using **MERN stack** and **WordPress**.  
 I love creating clean **UI/UX designs** and writing **efficient, scalable code**.  
 Currently, I’m learning advanced **Full-Stack Development** to deliver full-fledged web solutions.
