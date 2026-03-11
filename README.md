@@ -1,7 +1,7 @@
 
 ### 👋 Hi People,
 
-Hi! I’m **Asadul Sameer**, a passionate **Web Developer and Designer ** from **Bangladesh**.  
+Hi! I’m **Asadul Sameer**, a passionate **Web** **Developer** **and** **Designer**  from **Bangladesh**.  
 I specialize in building **responsive, modern websites** using **MERN stack** and **WordPress**.  
 I love creating clean **UI/UX designs** and writing **efficient, scalable code**.  
 Currently, I’m learning advanced **Full-Stack Development** to deliver full-fledged web solutions.
