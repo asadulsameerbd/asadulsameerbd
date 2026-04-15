@@ -53,7 +53,7 @@ I love turning complex ideas into **clean, modern web designs** and learning new
 
 ## 💬 Dev Quote
 
-![](> "Building fast, scalable, and user-focused web solutions.")
+> "Building fast, scalable, and user-focused web solutions."
 
 ## 🚀 Featured Projects
 
