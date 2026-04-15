@@ -53,7 +53,7 @@ I love turning complex ideas into **clean, modern web designs** and learning new
 
 ## 💬 Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](> "Building fast, scalable, and user-focused web solutions.")
 
 ## 🚀 Featured Projects
 
