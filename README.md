@@ -39,6 +39,27 @@ I love turning complex ideas into **clean, modern web designs** and learning new
 ![](https://nirzak-streak-stats.vercel.app/?user=asadulsameerbd&theme=github-dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadulsameerbd&layout=compact&theme=github_dark&hide_border=true)
+
+
+## 📈 Contribution Graph
+
+[![Ashadul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asadulsameerbd&theme=github-dark&hide_border=true)](https://github.com/asadulsameerbd)
+
+
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=asadulsameerbd&theme=darkhub&no-frame=true&margin-w=10)
+
+
+## 💬 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🚀 Featured Projects
+
+- 🔹 [E-commerce Website](https://github.com/asadulsameerbd/your-repo)
+- 🔹 [Portfolio Website](https://github.com/asadulsameerbd/your-repo)
+- 🔹 [MERN App](https://github.com/asadulsameerbd/your-repo)
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asadulsameerbd&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
