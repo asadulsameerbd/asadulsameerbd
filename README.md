@@ -29,7 +29,7 @@ I love turning complex ideas into **clean, modern web designs** and learning new
 <!-- profile view -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asadulsameerbd&label=Profile%20Views&color=0e75b6&style=flat" 
-       alt="Profile views" width="120" height="25" />
+       alt="Profile views" width="100" height="20" />
 </p>
 
 # 💻 Technology Stack:
