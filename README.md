@@ -25,10 +25,11 @@ I love turning complex ideas into **clean, modern web designs** and learning new
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/asadulsameer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashadulsameer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asadulsameer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asadulsameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadulff55@gmail.com)  
+
+<!-- profile view -->
 <p align="left">
-  <img src="[https://komarev.com/ghpvc/?username=asadulsameerbd&label=Profile%20views&color=0e75b6&style=flat-square](https://komarev.com/ghpvc/?username=asadulsameerbd)" 
-       alt="Profile Views" 
-       width="60"  height="30" />
+  <img src="https://komarev.com/ghpvc/?username=asadulsameerbd&label=Profile%20Views&color=0e75b6&style=flat" 
+       alt="Profile views" />
 </p>
 
 # 💻 Technology Stack:
