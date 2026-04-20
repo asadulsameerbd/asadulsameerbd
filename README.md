@@ -60,8 +60,8 @@ I love turning complex ideas into **clean, modern web designs** and learning new
 ## 🚀 Featured Projects
 
 - 🔹 [Scholarship Management Website](https://assignment-nine-f1bfd.web.app/)
-- 🔹 [Portfolio Website](https://asadulsameerportfolio-2167f.web.app/))
-- 🔹 [MERN App](https://github.com/asadulsameerbd/your-repo)
+- 🔹 [Portfolio Website](https://asadulsameerportfolio-2167f.web.app/)
+- 🔹 [Tree Plant Web App](https://b11-a10-76609.web.app/)
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asadulsameerbd&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
